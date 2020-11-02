@@ -4,7 +4,7 @@ I'm John Kouris. I work for a technology consulting company in the Bay Area and 
 
 ### What I'm Up To
 - Working on [My Fitness](https://github.com/jdkouris/MyFitness)
-- Adding to my skills by learning SwiftUIi
+- Adding to my skills by learning SwiftUI
 - Graduated from the part-time iOS program at Lambda School
 
 ### Where you can find me:
