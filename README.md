@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/kouris_john)
 
 
-Welcome to my Github page! I'm John. I work in data for a technology consulting company in the Bay Area and I recently finished my part-time iOS Development and Computer Science program at Lambda School!  
+Welcome to my Github page! I work in data for a technology consulting company in the Bay Area and I recently finished my part-time iOS Development and Computer Science program at Lambda School!  
 
 
 #### 🌱 Things I'm currently working on: 
