@@ -9,7 +9,7 @@ Welcome to my Github page! I work in data for a technology consulting company in
 
 
 #### 🌱 Things I'm currently working on: 
-- Working on [My Fitness](https://github.com/jdkouris/MyFitness)
+- Working on [My Fitness](https://github.com/jdkouris/MyFitness). Check it out in the [App Store](https://apps.apple.com/us/app/my-fitness-fitness-tracker/id1541255903)
 - Blogging about iOS Development on [Hashnode](https://johnkouris.hashnode.dev)
 - Adding to my skills by learning SwiftUI
 
