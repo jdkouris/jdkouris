@@ -15,8 +15,6 @@ Welcome to my Github page! I work in data for a technology consulting company in
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jdkouris&show_icons=true&hide_border=true" />
-  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -24,5 +22,4 @@ Welcome to my Github page! I work in data for a technology consulting company in
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-
 </p>
