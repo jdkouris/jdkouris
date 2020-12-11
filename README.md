@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm John Kouris
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jdkouris)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johndkouris/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jdkouris@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/kouris_john)
