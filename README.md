@@ -4,11 +4,12 @@
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/kouris_john)
 
 
-Welcome to my Github page! I work in data for a technology consulting company in the Bay Area. I am an iOS Development and Computer Science graduate from Lambda School and am now looking for my first iOS Developer role. If you're hiring, please reach out!  
+Welcome to my Github page! I'm an iOS Development and Computer Science graduate from Lambda School. I currently work as an iOS Developer at Nexient. 
 
 
 #### 🌱 Things I'm currently working on: 
-- Working on [My Fitness](https://github.com/jdkouris/MyFitness). Now available in the [App Store](https://apps.apple.com/us/app/my-fitness-fitness-tracker/id1541255903).
+- Developing iOS apps as part of a team at [Nexient](https://www.nexient.com).
+- Refining [My Fitness](https://github.com/jdkouris/MyFitness). Now available in the [App Store](https://apps.apple.com/us/app/my-fitness-fitness-tracker/id1541255903).
 - Writing iOS tutorials on [Hashnode](https://johnkouris.hashnode.dev).
 - Adding to my skills by learning SwiftUI and Machine Learning with MLKit.
 
