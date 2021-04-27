@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/kouris_john)
 
 
-Welcome to my Github page! I'm an iOS Development and Computer Science graduate from Lambda School. I currently work as an iOS Developer at Nexient. 
+Welcome to my Github page! I'm an iOS Development and Computer Science graduate from Lambda School. I currently work as an iOS Engineer at Nexient. 
 
 
 #### 🌱 Things I'm currently working on: 
