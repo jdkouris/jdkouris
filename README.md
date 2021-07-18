@@ -8,7 +8,6 @@ Welcome to my Github page! I'm an iOS Development and Computer Science graduate 
 
 
 #### 🌱 Things I'm currently working on: 
-- Developing iOS apps as part of a team at [Nexient](https://www.nexient.com).
 - Refining [My Fitness](https://github.com/jdkouris/MyFitness). Now available in the [App Store](https://apps.apple.com/us/app/my-fitness-fitness-tracker/id1541255903).
 - Making iOS related videos on [YouTube](https://www.youtube.com/channel/UCig1af3qilqBAJMiLCf4msg/videos).
 - Adding to my skills by learning SwiftUI and Flutter.
