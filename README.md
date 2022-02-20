@@ -1,16 +1,15 @@
 ### Hi there 👋 I'm John Kouris
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johndkouris/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jdkouris@gmail.com)
-[![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/kouris_john)
+[![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/john_dko)
 
 
-Welcome to my Github page! I'm an iOS Development and Computer Science graduate from Lambda School. I currently work as an iOS Engineer at Nexient. 
+Welcome to my Github page! I'm an iOS Development and Computer Science graduate from Lambda School. I currently work as an iOS Engineer at Rocket Central. 
 
 
 #### 🌱 Things I'm currently working on: 
-- Refining [My Fitness](https://github.com/jdkouris/MyFitness). Now available in the [App Store](https://apps.apple.com/us/app/my-fitness-fitness-tracker/id1541255903).
-- Making iOS related videos on [YouTube](https://www.youtube.com/channel/UCig1af3qilqBAJMiLCf4msg/videos).
-- Adding to my skills by learning SwiftUI and Flutter.
+- Building new product features over at Rocket Mortgage / Rocket Central
+- Making iOS-related videos on [YouTube](https://www.youtube.com/channel/UCig1af3qilqBAJMiLCf4msg/videos).
 
 #### :computer: Programming languages and tools: 
 <p>
