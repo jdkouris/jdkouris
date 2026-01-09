@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/john_dko)
 
 
-Welcome to my Github page! I'm an iOS Development and Computer Science graduate from Lambda School. I currently work as an iOS Engineer at Splash Cash.
+Welcome to my Github page! I'm an iOS Engineer with 5+ years of experience. I'm currently working in the Bay Area for a company called Splash Cash.
 
 #### :computer: Programming languages and tools: 
 <p>
