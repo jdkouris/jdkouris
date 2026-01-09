@@ -4,12 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/john_dko)
 
 
-Welcome to my Github page! I'm an iOS Development and Computer Science graduate from Lambda School. I currently work as an iOS Engineer at Rocket Central. 
-
-
-#### 🌱 Things I'm currently working on: 
-- Building new product features over at Rocket Mortgage / Rocket Central
-- Making iOS-related videos on [YouTube](https://www.youtube.com/channel/UCig1af3qilqBAJMiLCf4msg/videos).
+Welcome to my Github page! I'm an iOS Development and Computer Science graduate from Lambda School. I currently work as an iOS Engineer at Splash Cash.
 
 #### :computer: Programming languages and tools: 
 <p>
